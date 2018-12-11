@@ -33,6 +33,7 @@ clean:
 		rm -rf src/*~
 
 fclean:
+		make clean
 		make fclean -C lib/my
 		rm -f $(NAME)
 
