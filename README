@@ -1,0 +1,11 @@
+Welcome in the project "My_Hunter" of Epitech from Anthony Anicotte
+
+To launch the game, just execute the "make" command at the root then ./my_hunter
+Use the command ./my_hunter -h to read the helper guide and know some commands of the game
+
+Ducks will appears, you'll have to shoot them with your gun, but beware of your ammos,
+you will need to reload the gun to continue shooting the duck.
+If a duck fly away, you loose a life. 3 lifes left and you lose the game.
+Try to beat your best score !
+
+Good Luck (don't forget to put the sound on)
